@@ -1,0 +1,16 @@
+PORTUGUESE:
+ansiozissimos: very anxious
+publicacoes: posts
+recorrences: recurrent
+educadissimo: very polite
+notamos: we noticed
+coluna: column; periodical
+journal: newspaper
+numero um: qual a profesao do pais do ben: professores, agricultores, engeneiros, magicos
+numero dois: qual cidaded Ben visitou quando decidiu ser um critico: Betim, Rio de Janeiro
+numero tres: com qual refeicao inicio seu projecto? cafe da manha, jantar, almoco, seia?
+numero quatro: qual foi o nome escolhido para o projeto: sem lugares para conhecer, onde comerem sampa, os melhores
+numero cinco: qual restaurante Ben nao teve nehuma critica a fazer? letra a, b, c, d
+// superlatives
+entre cem restaurantes apenas um mi agrada: Among 100 restaurants, only one pleases me
+Quando ainda jovem adorava various restaurantes pela minha cidade natal.
